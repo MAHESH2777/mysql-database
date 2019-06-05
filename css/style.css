@@ -1,0 +1,31 @@
+body{
+    background-image: url("../img/ground4.jpg");
+    color: white;
+  
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+}
+@media only screen and (min-width: 1000px) {
+    #media{
+      margin-left: 50px;
+    }
+  }
+  .logo{
+      margin-top: 15px;
+  }
+  .a{
+    background-color: rgba(24, 21, 21, 0.534)
+    
+  }
+  @media only screen and (min-width: 1000px) {
+    #btnn{
+      margin-left: 450px;
+    }
+  }
+  @media only screen and (max-width: 1000px) {
+    .logo {
+     text-align: center
+    }
+  }
